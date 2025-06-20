@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-  background: linear-gradient(0deg, #d1cfd1, #414141);
+  background: linear-gradient(0deg, #ffffff, #5a5959);
   backdrop-filter: blur(10px);
   position: fixed;
   width: 100%;
